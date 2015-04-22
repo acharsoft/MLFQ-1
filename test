@@ -1,0 +1,13 @@
+please input the number of the jobs:
+5
+please input the num, arrivetime, requiretime of each job:
+1 2 8
+2 3 2
+3 7 5
+4 9 10
+5 14 6
+num:2 rettime:1 leavetime:6 roundtime:3
+num:3 rettime:0 leavetime:19 roundtime:12
+num:5 rettime:0 leavetime:27 roundtime:13
+num:1 rettime:0 leavetime:29 roundtime:27
+num:4 rettime:0 leavetime:33 roundtime:24
